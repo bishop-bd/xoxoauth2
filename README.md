@@ -5,7 +5,7 @@ XOXOAuth2 is a simple OAuth 2.0 client library for Node.js, designed to work wit
 ## Installation
 
 ```bash
-npm install roman-lxix/xoxoauth2
+npm install bishop-bd/xoxoauth2
 ```
 
 ## Usage

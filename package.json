@@ -1,6 +1,6 @@
 {
   "name": "xoxoauth2",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A library for X (Twitter) OAuth 2.0 authentication",
   "main": "src/xoauth2.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "oauth",
     "authentication"
   ],
-  "author": "Roman LXIX",
+  "author": "David Bishop",
   "license": "CC0-1.0",
   "devDependencies": {
     "@babel/core": "^7.x.x",
